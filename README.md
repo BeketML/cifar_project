@@ -1,6 +1,10 @@
 # Классификация изображений CIFAR-10
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/BeketML/cifar_project)
+
 Проект по разработке интерактивного сервиса для классификации изображений из набора данных CIFAR-10 с использованием сверточных нейронных сетей (CNN) на PyTorch.
+
+**Репозиторий**: [https://github.com/BeketML/cifar_project](https://github.com/BeketML/cifar_project)
 
 ## Описание проекта
 
@@ -46,8 +50,8 @@ cifar/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository-url>
-cd cifar
+git clone https://github.com/BeketML/cifar_project.git
+cd cifar_project
 ```
 
 ### 2. Создание виртуального окружения
